@@ -1,0 +1,24 @@
+{
+  "name": "minha_api",
+  "version": "1.0.0",
+  "description": "API to manage the movies and series that I have watching",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Heloisag/Minha_API.git"
+  },
+  "author": "Heloisag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Heloisag/Minha_API/issues"
+  },
+  "homepage": "https://github.com/Heloisag/Minha_API#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^21.2.0",
+    "yarn": "^1.22.21"
+  }
+}
